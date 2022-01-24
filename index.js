@@ -26,7 +26,5 @@
 
     minusButton.addEventListener('click', () => counterButtonHandler("-"))
     plusButton.addEventListener('click', () => counterButtonHandler("+"))    
-    resetButton.addEventListener('click', () => counterButtonHandler("*"))    
-
-
+    resetButton.addEventListener('click', () => counterButtonHandler("*"))
 })()
